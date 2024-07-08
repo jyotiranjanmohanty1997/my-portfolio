@@ -1,0 +1,15 @@
+ul li{
+    padding: 0 8px 0;
+    font-size: 1.3rem;
+    color:aqua;
+}
+/* .bg-cyan{
+    background-color: #1b55f2;
+    color: rgb(252, 252, 253);
+    background-color: #2580ff;
+} 
+*/
+strong{
+    font-size: 1.5rem;
+    color: #0e4556;
+}

@@ -1,0 +1,15 @@
+#b1{
+    height: 450px;
+    background-image: url('../photo/Banner1.jpg');
+    background-size: 100% 100%;
+    background-color: black;
+  }
+sect div p{
+    /* font-size: 1.9rem; */
+    text-transform: uppercase;
+}
+div h1{
+    /* background-color: white; */
+    color: white;
+    opacity: 0.9;
+}
